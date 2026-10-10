@@ -19,4 +19,4 @@ resource "azapi_resource" "expressRouteCircuit" {
     }
   }
 }
-abdoo
+

@@ -19,4 +19,3 @@ resource "azapi_resource" "vpnVnetConnection" {
     }
   }
 }
-abdoo
